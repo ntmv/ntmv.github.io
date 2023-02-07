@@ -21,7 +21,7 @@ I am working as a Statistician Intern at [Broadstreet HEOR](https://www.broadstr
 
 I also worked as a Bioinformatics intern at BC Cancer, as part of the [Huntsman lab](https://www.bccrc.ca/dept/mo/labs/huntsman-lab), where I worked on analyzing different kinds of next-gen genomic data, including RNA-Seq, WGS, targeted panel data and scDNAseq to identify insights pertaining to ovarian cancers. I additionally worked on the development of an R package, meant to be a toolkit for the analysis and visualization of shallow-whole genome sequencing data. I developed a preliminary sample quality tool to evaluate the quality of relative copy-number calls for shallow-whole genome sequencing data.
 
-Previously, I also worked as a Data Science intern at [JMIR Publications](https://jmirpublications.com), where I worked as part of the marketing and communications team on competitive bibliometrics analysis, and enhancing journal Google Ad campaigns largely through keyword extraction and topic modeling. I was awarded this internship as one of the [winners of the 2021 Undergraduate STEM Big Data Challenge](https://www.sspnet.org/community/news/stem-fellowship-announces-2021-big-data-challenge-winners-and-jmir-publications-first-interns/). 
+Previously, I also worked as a Data Science intern at [JMIR Publications](https://jmirpublications.com), where I worked as part of the marketing and communications team on competitive bibliometrics analysis, and enhancing journal Google Ad campaigns largely through keyword extraction and topic modeling. 
 
 
 
