@@ -12,7 +12,7 @@ In my spare time, I enjoy playing the electric guitar, listening to music, readi
 
 ## Research Interests
 
-- Variable selection methods (regularization) applied to high-dimensional genomics data
+- Sparse variable selection methods (regularization) applied to high-dimensional genomics data
 - Competing Risks Analysis
 
 ## Work Experience
